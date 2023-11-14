@@ -13,9 +13,9 @@ This typing speed test game uses Python and Pygame. The game provides users with
 
 ## Installation
 1. Clone the repository:
-   '''
+   ,,,
     git clone https://github.com/your-username/typing-speed-game.git
-   '''
+   ,,,
 3. Install the required dependencies:
     pip install pygame
 4. Run the game:
