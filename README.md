@@ -16,11 +16,11 @@ This typing speed test game uses Python and Pygame. The game provides users with
    ```
     git clone https://github.com/your-username/typing-speed-game.git
    ```
-3. Install the required dependencies:
+2. Install the required dependencies:
    ```
     pip install pygame
    ```
-5. Run the game:
+3. Run the game:
    ```
     python main.py
    ```
