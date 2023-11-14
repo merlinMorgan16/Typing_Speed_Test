@@ -11,6 +11,8 @@ This typing speed test game uses Python and Pygame. The game provides users with
 3. Press Enter to see your results.
 4. Click "Reset" to start a new typing session.
 
+![Untitled video - Made with Clipchamp (1)](https://github.com/merlinMorgan16/Typing_Speed_Test/assets/55897326/e26dc8cb-87cb-476b-a9d5-73d41f0a4bfa)
+
 ## Installation
 1. Clone the repository:
    ```
