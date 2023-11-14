@@ -10,3 +10,11 @@ This typing speed test game uses Python and Pygame. The game provides users with
 2. Type the displayed sentence as quickly and accurately as possible.
 3. Press Enter to see your results.
 4. Click "Reset" to start a new typing session.
+
+## Installation
+1. Clone the repository:
+    git clone https://github.com/your-username/typing-speed-game.git
+2. Install the required dependencies:
+    pip install pygame
+3. Run the game:
+    python main.py
